@@ -38,13 +38,13 @@ To understand:
 
 ## 📷 Dashboard
 
-![Dashboard](Finaldashboard.png)
+![Dashboard](Finaldashboard.PNG)
 
 ---
 
 ## 🧮 SQL Analysis
 
-![SQL](SQLprep.png)
+![SQL](SQLprep.PNG)
 
 ---
 
